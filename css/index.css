@@ -186,15 +186,22 @@ button {
   padding: 20px;
 }
 table {
-  background: green;
+  text-align: center;
   border: 1px solid black;
+  padding: 10px;
+  width: 900px;
 }
 table tr,
 table th {
   border: 1px solid black;
+  padding: 10px;
 }
 table th {
   font-weight: bold;
+  padding: 10px;
+}
+.table-info {
+  background: yellow;
 }
 li {
   border: 1px solid black;
